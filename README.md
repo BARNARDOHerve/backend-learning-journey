@@ -27,18 +27,15 @@ This repository is a personal and practical guide to becoming a strong backend d
 ## 📅 Structure
 
 ```plaintext
-├── week-01/
-│   ├── day-01/
-│   ├── day-02/
-│   └── ...
-├── week-02/
-│   └── ...
-├── projects/
-│   ├── student-management-api/
-│   ├── banking-service/
-│   └── ...
-├── docs/
-└── README.md
+FinanceTrackerAPI/
+├── Controllers/
+├── Models/
+├── DTOs/
+├── Services/
+├── Repositories/
+├── Data/
+├── Helpers/
+└── Program.cs
 ```
 
 ## ✅ Goals
